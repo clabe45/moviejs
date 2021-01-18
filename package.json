@@ -4,6 +4,7 @@
   "description": "A flexible video-editing library for the browser",
   "main": "dist/vidar-cjs.js",
   "browser": "src/index.js",
+  "types": "dist/vidar.d.ts",
   "directories": {
     "doc": "docs",
     "example": "examples",
